@@ -33,6 +33,9 @@ func MainView(app *pkg.Application) {
 		label,
 		plusBtn,
 		newWinBtn,
+		widget.NewButton("photo", func() {
+			ChosePhoto(app)
+		}),
 	))
 
 	w.Show()
