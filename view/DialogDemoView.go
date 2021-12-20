@@ -7,8 +7,8 @@ import (
 	"fyne.io/fyne/v2/dialog"
 	"fyne.io/fyne/v2/storage"
 	"fyne.io/fyne/v2/widget"
-	"fynePoc/internal"
-	"fynePoc/pkg"
+	"github.com/Nolions/fynePoc/internal"
+	"github.com/Nolions/fynePoc/pkg"
 )
 
 func DialogDemo(app *pkg.Application) {

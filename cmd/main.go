@@ -1,8 +1,8 @@
 package main
 
 import (
-	"fynePoc/pkg"
-	"fynePoc/view"
+	"github.com/Nolions/fynePoc/pkg"
+	"github.com/Nolions/fynePoc/view"
 )
 
 func main() {
